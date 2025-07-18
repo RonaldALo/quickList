@@ -26,7 +26,7 @@ Uma aplicação web simples e responsiva para gerenciar uma lista de compras de 
 
 Você pode rodar localmente ou visualizar online:
 
-🔗 [Ver no GitHub Pages](https://seu-usuario.github.io/seu-repositorio/)
+🔗 [Ver no GitHub Pages](https://ronaldalo.github.io/quickList/)
 
 > Substitua o link acima pelo real após o deploy.
 
