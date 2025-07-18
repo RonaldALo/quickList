@@ -28,8 +28,6 @@ Você pode rodar localmente ou visualizar online:
 
 🔗 [Ver no GitHub Pages](https://ronaldalo.github.io/quickList/)
 
-> Substitua o link acima pelo real após o deploy.
-
 ---
 
 ## 📸 Preview
