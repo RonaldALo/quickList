@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/index.css">
+    <title>quicklist</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="logo">
+             <img src="assets/logo.svg" alt="logo quicklist" class="desktop-only">
+        </div>
+        <header class="py-2xl">
+            <a href="#">
+                <span><- Voltar</span>
+            </a>
+            <h1 class="py-lg">Compras da semana</h1>
+        </header>
+        <main>
+            <form action="#">
+                <input type="text" name="input-list" id="input-list" placeholder="Adicione um novo item">
+                <button type="submit">Adicionar item</button>
+            </form>
+            <ul></ul>
+            <div id="alert" class="hide">
+                <div>
+                    <img src="assets/alert.svg" alt="">
+                    <span>O item foi removido da lista</span>
+                </div>
+                <img src="assets/remove.svg" class="remover-alert">
+            </div>
+        </main>
+        <script src="js/main.js"></script>
+    </div>
+</body>
+</html>
